@@ -1,1 +1,1 @@
-FROM gcr.io/config-management-release/reconciler-manager:v1.12.1-rc.3
+FROM gcr.io/kpt-dev/porch-function-runner:v0.0.8
