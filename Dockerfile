@@ -1,1 +1,1 @@
-FROM gcr.io/kpt-dev/porch-controllers:v0.0.8
+FROM gcr.io/kpt-dev/porch-server:v0.0.8
