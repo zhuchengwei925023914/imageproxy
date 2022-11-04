@@ -1,1 +1,1 @@
-FROM gcr.io/config-management-release/otelcontribcol:v0.38.0
+FROM gcr.io/config-management-release/reconciler-manager:v1.12.1-rc.3
