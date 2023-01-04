@@ -1,1 +1,1 @@
-FROM gcr.io/kpt-dev/porch-server:v0.0.8
+FROM docker.io/istio/pilot:1.16.1
